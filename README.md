@@ -19,6 +19,8 @@
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish01-dev&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish01-dev&layout=pie)](https://github.com/ashish01-dev/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ashish-kumar0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashish-kumar0406" height="30" width="40" /></a>
